@@ -1,3 +1,5 @@
-# Spiritual Stone Tutorial
+# Spiritual Stone Tutorial Files
 
-Files for tutorial
+You'll find the stone snapshots for blender in the ReferencePictures folder
+
+The shader code files end with the .shader extension, and the cube maps are in .exr format
